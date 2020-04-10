@@ -7,7 +7,7 @@ Esse foi um desafio que participei da Codenation para o programa de acleradev em
 ## 1 - primeiro passo 
  Para elaboração desse modelo foi utilizado algumas bibliotecas, para maior facilidade indico baixar o anaconda no qual já tem todas essas bibliotecas.
 
- # 2 - O que foi fornecido  e pedido pela codenation
+ # 2 - O que foi fornecido  e pedido pela Codenation
 
 - foi fornecido 2 arquivos um train.csv e test.csv
 - Este arquivo, e apenas ele, deve ser utilizado para todos os desafios
